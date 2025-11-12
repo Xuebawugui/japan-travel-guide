@@ -1,0 +1,12 @@
+# Node & Vite
+node_modules/
+dist/
+
+# Env keys
+.env
+.env.*
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
